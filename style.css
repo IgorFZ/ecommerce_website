@@ -669,7 +669,64 @@ footer .copyright {
         margin: 0 0 15px 0;
     }
 
-    #product1 .pro {
-        
+    #product1 {
+        padding: 20px;
     }
+
+    #product1 .pro {
+        width: 100%;
+    }
+
+    #banner {
+        height: 40vh;
+        padding: 0 20px;
+    }
+
+    #sm-banner {
+        padding: 20px 20px;
+    }
+
+    #sm-banner .banner-box {
+        height: 40vh;
+    }
+
+    #sm-banner .banner-box2 {
+        margin-top: 20px;
+    }
+
+    #banner3 {
+        padding: 0 20px;
+    }
+
+    #banner3 .banner-box {
+        width: 100%;
+    }
+
+    #newsletter {
+        padding: 40px 20px;
+    }
+
+    #newsletter .form {
+        width: 100%;
+    }
+}
+
+
+/* Shop Page */
+
+#page-header {
+    background-image: url(img/banner/b1.jpg);
+    height: 40vh;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 14px;
+}
+
+#page-header h2,
+#page-header p {
+    color: #fff;
 }
