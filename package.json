@@ -1,0 +1,22 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorFZ/ecommerce_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorFZ/ecommerce_website/issues"
+  },
+  "homepage": "https://github.com/IgorFZ/ecommerce_website#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
